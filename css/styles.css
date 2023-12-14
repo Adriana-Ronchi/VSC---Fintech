@@ -1,0 +1,13 @@
+
+.my-color {
+    color: var(--bs-dark);
+    background-color: var(--bs-pink);
+}
+/* Código CSS */
+.container {
+    min-height: 80vh;
+    margin: 10px auto;
+    padding: 10px 0;
+    display: flex;
+    justify-content: space-around;
+}
